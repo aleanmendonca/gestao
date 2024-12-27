@@ -1,0 +1,30 @@
+export default {
+  translation: {
+    common: {
+      welcome: 'Bem-vindo',
+      login: 'Entrar',
+      logout: 'Sair',
+      email: 'E-mail',
+      password: 'Senha',
+      confirmPassword: 'Confirmar Senha',
+      name: 'Nome',
+      dashboard: 'Painel',
+      save: 'Salvar',
+      cancel: 'Cancelar',
+      delete: 'Excluir',
+      edit: 'Editar',
+      search: 'Buscar',
+      noResults: 'Nenhum resultado encontrado',
+      loading: 'Carregando...',
+      error: 'Erro',
+      success: 'Sucesso',
+    },
+    navigation: {
+      sales: 'Vendas',
+      registers: 'Cadastros',
+      financial: 'Financeiro',
+      controls: 'Controles',
+      settings: 'Configurações',
+    },
+  },
+};
